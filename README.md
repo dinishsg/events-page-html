@@ -2,7 +2,7 @@
 ![Beginner Project](https://img.shields.io/badge/Level-Beginner-green)
 
 
-# Upcoming Events Landing Page 📅
+# Upcoming Events Landing Page - HTML Practice Project
 
 A simple HTML-based landing page that displays information about upcoming events.  
 This project is created to strengthen foundational HTML skills and webpage structure.
